@@ -1,5 +1,6 @@
 # YP-student_projects
-Projects created in the process of learning data analytics and data science
+
+**Список проектов, созданных в процессе обучения на курсе Data Science Яндекс.Практикум.** 
 
 | Название | Описание | Используемые библиотеки |
 | :-------------------- | :--------------------- |:----------------------------|
